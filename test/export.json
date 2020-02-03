@@ -1,0 +1,721 @@
+[
+    {
+        "Expiry": {
+            "S": "2018-07-21T17:32:28.000Z"
+        },
+        "LastModifiedAt": {
+            "S": "2019-11-18T10:47:05.193Z"
+        },
+        "Roles": {
+            "SS": [
+                "OrgManager"
+            ]
+        },
+        "CredentialType": {
+            "S": "mindsphereCloudFoundry"
+        },
+        "CFGuid": {
+            "S": "187f46b1-14ef-47a7-848e-075a93f7882f"
+        },
+        "CreatedBy": {
+            "S": "sriranga.yandapalli@siemens.com"
+        },
+        "Description": {
+            "S": "Descriptin for mdspsdk-testu2"
+        },
+        "TenantName": {
+            "S": "mdspsdk"
+        },
+        "CreatedAt": {
+            "S": "2019-11-18T10:46:06.240Z"
+        },
+        "CredentialsStatus": {
+            "S": "DEPROVISIONED"
+        },
+        "Username": {
+            "S": "mdspsdk-testu2"
+        },
+        "CredentialsId": {
+            "S": "1e4410b9-d5b9-4cef-b2dd-8d7c9c9384b0"
+        }
+    },
+    {
+        "Expiry": {
+            "S": "2020-11-28T17:41:28.000Z"
+        },
+        "LastModifiedAt": {
+            "S": "2019-12-05T10:11:50.343Z"
+        },
+        "Description": {
+            "S": "Descriptin for mdspsdk-testu7"
+        },
+        "ErrorCause": {
+            "S": "RESET_PASSWORD_FAILED"
+        },
+        "ErrorCode": {
+            "S": "mdsp.core.credentials.internalServerError"
+        },
+        "TenantName": {
+            "S": "mdspsdk"
+        },
+        "CredentialsStatus": {
+            "S": "PROVISIONED"
+        },
+        "CredentialsId": {
+            "S": "1e8e4ade-86bb-4160-bf75-999fe7420ef7"
+        },
+        "Roles": {
+            "SS": [
+                "OrgManager"
+            ]
+        },
+        "CredentialType": {
+            "S": "mindsphereCloudFoundry"
+        },
+        "CFGuid": {
+            "S": "47931adb-56dc-4ad2-9bb5-ba899cbdedc9"
+        },
+        "CreatedBy": {
+            "S": "sriranga.yandapalli@siemens.com"
+        },
+        "CreatedAt": {
+            "S": "2019-11-27T09:00:16.716Z"
+        },
+        "Username": {
+            "S": "mdspsdk-testu7"
+        }
+    },
+    {
+        "Expiry": {
+            "S": "2020-01-06T14:22:25.928Z"
+        },
+        "LastModifiedAt": {
+            "S": "2019-12-06T14:22:54.473Z"
+        },
+        "Roles": {
+            "SS": [
+                "OrgManager"
+            ]
+        },
+        "CredentialType": {
+            "S": "mindsphereCloudFoundry"
+        },
+        "CFGuid": {
+            "S": "c0614623-f2c2-4651-a4e2-61a34af02606"
+        },
+        "CreatedBy": {
+            "S": "sriranga.yandapalli@siemens.com"
+        },
+        "Description": {
+            "S": "Descriptin for mdspsdk-testu99"
+        },
+        "TenantName": {
+            "S": "mdspsdk"
+        },
+        "CreatedAt": {
+            "S": "2019-12-03T11:27:40.645Z"
+        },
+        "CredentialsStatus": {
+            "S": "RENEWING_CREDENTIAL"
+        },
+        "Username": {
+            "S": "mdspsdk-testu99"
+        },
+        "CredentialsId": {
+            "S": "247d5b52-46b6-4c12-bb5a-623865be0c78"
+        }
+    },
+    {
+        "Expiry": {
+            "S": "2018-09-04T06:25:12.257Z"
+        },
+        "LastModifiedAt": {
+            "S": "2019-11-08T07:15:20.642Z"
+        },
+        "Roles": {
+            "SS": [
+                "OrgManager"
+            ]
+        },
+        "CredentialType": {
+            "S": "mindsphereCloudFoundry"
+        },
+        "CFGuid": {
+            "S": "9620b83f-a7e2-4d7c-8e81-5e86282d3f64"
+        },
+        "CreatedBy": {
+            "S": "pruthula.s@siemens.com"
+        },
+        "Description": {
+            "S": "testing the description"
+        },
+        "TenantName": {
+            "S": "mdspsdk"
+        },
+        "CreatedAt": {
+            "S": "2019-11-04T10:38:12.866Z"
+        },
+        "CredentialsStatus": {
+            "S": "DEPROVISIONED"
+        },
+        "Username": {
+            "S": "mdspsdk-pruthulas1"
+        },
+        "CredentialsId": {
+            "S": "50e97fb6-2a73-42c9-80ba-9468aae6f715"
+        }
+    },
+    {
+        "Expiry": {
+            "S": "2020-09-04T06:25:12.257Z"
+        },
+        "LastModifiedAt": {
+            "S": "2019-11-04T10:37:57.961Z"
+        },
+        "Roles": {
+            "SS": [
+                "OrgManager"
+            ]
+        },
+        "CredentialType": {
+            "S": "mindsphereCloudFoundry"
+        },
+        "CFGuid": {
+            "S": "dcf71f6f-9444-43dc-adcf-35d30ff9c0e0"
+        },
+        "CreatedBy": {
+            "S": "pruthula.s@siemens.com"
+        },
+        "Description": {
+            "S": "Testing"
+        },
+        "TenantName": {
+            "S": "mdspsdk"
+        },
+        "CreatedAt": {
+            "S": "2019-10-30T06:22:00.745Z"
+        },
+        "CredentialsStatus": {
+            "S": "DEPROVISIONED"
+        },
+        "Username": {
+            "S": "mdspsdk-pruthulas1"
+        },
+        "CredentialsId": {
+            "S": "537f77c3-360a-4c1d-9640-78e41510b975"
+        }
+    },
+    {
+        "Expiry": {
+            "S": "2020-09-04T06:25:12.257Z"
+        },
+        "LastModifiedAt": {
+            "S": "2019-11-27T10:10:04.045Z"
+        },
+        "Roles": {
+            "SS": [
+                "OrgManager"
+            ]
+        },
+        "CredentialType": {
+            "S": "mindsphereCloudFoundry"
+        },
+        "CFGuid": {
+            "S": "154de1a9-efaf-41e1-bf00-96372d8d997e"
+        },
+        "CreatedBy": {
+            "S": "pruthula.s@siemens.com"
+        },
+        "Description": {
+            "S": "testing the description"
+        },
+        "TenantName": {
+            "S": "mdspsdk"
+        },
+        "CreatedAt": {
+            "S": "2019-11-27T10:09:40.480Z"
+        },
+        "CredentialsStatus": {
+            "S": "DEPROVISIONED"
+        },
+        "Username": {
+            "S": "mdspsdk-27nov"
+        },
+        "CredentialsId": {
+            "S": "66bf5af3-2d2d-4485-bca3-ffdf9a6a1cb3"
+        }
+    },
+    {
+        "Expiry": {
+            "S": "2020-06-21T00:00:00.000Z"
+        },
+        "LastModifiedAt": {
+            "S": "2019-10-30T05:53:25.297Z"
+        },
+        "Description": {
+            "S": "Descriptin for tenant-myusername"
+        },
+        "ErrorCause": {
+            "S": "DEPROVISIONING_FAILED"
+        },
+        "ErrorCode": {
+            "S": "mdsp.core.credentials.internalServerError"
+        },
+        "TenantName": {
+            "S": "mdspsdk"
+        },
+        "CredentialsStatus": {
+            "S": "DEPROVISIONED"
+        },
+        "CredentialsId": {
+            "S": "72a2a3e0-f1e8-4da9-8a08-d735c94a8f95"
+        },
+        "Roles": {
+            "SS": [
+                "OrgManager"
+            ]
+        },
+        "CredentialType": {
+            "S": "mindsphereCloudFoundry"
+        },
+        "CFGuid": {
+            "S": "7c270929-0035-4e98-be86-efbf0dc76150"
+        },
+        "CreatedBy": {
+            "S": "pranava.sureka@siemens.com"
+        },
+        "CreatedAt": {
+            "S": "2019-10-24T12:46:18.248Z"
+        },
+        "Username": {
+            "S": "mdspsdk-resetpass3"
+        }
+    },
+    {
+        "Expiry": {
+            "S": "2020-09-04T06:25:12.257Z"
+        },
+        "LastModifiedAt": {
+            "S": "2019-11-08T09:23:56.189Z"
+        },
+        "Description": {
+            "S": "test"
+        },
+        "ErrorCause": {
+            "S": "All mandatory inputs were not queued for requested operation."
+        },
+        "ErrorCode": {
+            "S": "mdsp.core.credentials.usernameAlreadyExists"
+        },
+        "TenantName": {
+            "S": "mdspsdk"
+        },
+        "CredentialsStatus": {
+            "S": "DEPROVISIONED"
+        },
+        "CredentialsId": {
+            "S": "87b07948-1910-45d9-8c99-23ce8a269793"
+        },
+        "Roles": {
+            "SS": [
+                "OrgManager"
+            ]
+        },
+        "CredentialType": {
+            "S": "mindsphereCloudFoundry"
+        },
+        "CreatedBy": {
+            "S": "dileep.as@siemens.com"
+        },
+        "CreatedAt": {
+            "S": "2019-11-08T09:08:49.828Z"
+        },
+        "Username": {
+            "S": "mdspsdk-credentia202"
+        }
+    },
+    {
+        "Expiry": {
+            "S": "2020-09-04T06:25:12.257Z"
+        },
+        "LastModifiedAt": {
+            "S": "2019-11-11T10:01:03.860Z"
+        },
+        "Description": {
+            "S": "test"
+        },
+        "ErrorCause": {
+            "S": "Unable to execute HTTP request: Connect to ssm.eu-central-1.amazonaws.com:443 [ssm.eu-central-1.amazonaws.com/172.19.77.23, ssm.eu-central-1.amazonaws.com/172.19.72.246] failed: connect timed out"
+        },
+        "ErrorCode": {
+            "S": "mdsp.core.credentials.internalServerError"
+        },
+        "TenantName": {
+            "S": "mdspsdk"
+        },
+        "CredentialsStatus": {
+            "S": "DEPROVISIONED"
+        },
+        "CredentialsId": {
+            "S": "9693970a-8eb9-4127-bd72-227fc9019f27"
+        },
+        "Roles": {
+            "SS": [
+                "OrgManager"
+            ]
+        },
+        "CredentialType": {
+            "S": "mindsphereCloudFoundry"
+        },
+        "CFGuid": {
+            "S": "452c5a67-fa1e-404e-820a-90ebb51cdc04"
+        },
+        "CreatedBy": {
+            "S": "dileep.as@siemens.com"
+        },
+        "CreatedAt": {
+            "S": "2019-11-08T08:21:33.846Z"
+        },
+        "Username": {
+            "S": "mdspsdk-credentia201"
+        }
+    },
+    {
+        "Expiry": {
+            "S": "2020-09-04T06:25:12.257Z"
+        },
+        "LastModifiedAt": {
+            "S": "2019-11-27T10:23:58.955Z"
+        },
+        "Description": {
+            "S": "testing the description"
+        },
+        "ErrorCause": {
+            "S": "All mandatory inputs were not queued for requested operation."
+        },
+        "ErrorCode": {
+            "S": "mdsp.core.credentials.usernameAlreadyExists"
+        },
+        "TenantName": {
+            "S": "mdspsdk"
+        },
+        "CredentialsStatus": {
+            "S": "DEPROVISIONED"
+        },
+        "CredentialsId": {
+            "S": "99dee9ba-f809-49ad-8b3f-f109b110c7fd"
+        },
+        "Roles": {
+            "SS": [
+                "OrgManager"
+            ]
+        },
+        "CredentialType": {
+            "S": "mindsphereCloudFoundry"
+        },
+        "CreatedBy": {
+            "S": "pruthula.s@siemens.com"
+        },
+        "CreatedAt": {
+            "S": "2019-11-27T07:06:42.102Z"
+        },
+        "Username": {
+            "S": "mdspsdk-pruth"
+        }
+    },
+    {
+        "Expiry": {
+            "S": "2020-11-15T17:32:28.000Z"
+        },
+        "LastModifiedAt": {
+            "S": "2019-11-18T10:44:38.217Z"
+        },
+        "Roles": {
+            "SS": [
+                "OrgManager"
+            ]
+        },
+        "CredentialType": {
+            "S": "mindsphereCloudFoundry"
+        },
+        "CFGuid": {
+            "S": "eabd99a8-ea35-46c9-a954-41f7b0e0888f"
+        },
+        "CreatedBy": {
+            "S": "sriranga.yandapalli@siemens.com"
+        },
+        "Description": {
+            "S": "Descriptin for mdspsdk-testu1"
+        },
+        "TenantName": {
+            "S": "mdspsdk"
+        },
+        "CreatedAt": {
+            "S": "2019-11-18T09:15:41.078Z"
+        },
+        "CredentialsStatus": {
+            "S": "DEPROVISIONED"
+        },
+        "Username": {
+            "S": "mdspsdk-testu1"
+        },
+        "CredentialsId": {
+            "S": "aa439aef-5b04-456f-a090-3213c70fcb82"
+        }
+    },
+    {
+        "Expiry": {
+            "S": "2019-12-10T10:13:26.110Z"
+        },
+        "LastModifiedAt": {
+            "S": "2019-12-09T05:30:43.124Z"
+        },
+        "Roles": {
+            "SS": [
+                "OrgManager"
+            ]
+        },
+        "CredentialType": {
+            "S": "mindsphereCloudFoundry"
+        },
+        "CFGuid": {
+            "S": "f8ef5b1f-ccff-44d2-be46-edeb45cd42c2"
+        },
+        "CreatedBy": {
+            "S": "pruthula.s@siemens.com"
+        },
+        "Description": {
+            "S": "testing the description"
+        },
+        "TenantName": {
+            "S": "mdspsdk"
+        },
+        "CreatedAt": {
+            "S": "2019-11-27T10:13:26.110Z"
+        },
+        "CredentialsStatus": {
+            "S": "PROVISIONED"
+        },
+        "Username": {
+            "S": "mdspsdk-27nov"
+        },
+        "CredentialsId": {
+            "S": "bf28c09e-9059-406c-8e99-dcdd641047f7"
+        }
+    },
+    {
+        "Expiry": {
+            "S": "2020-07-21T17:32:28.000Z"
+        },
+        "LastModifiedAt": {
+            "S": "2019-11-27T11:31:36.724Z"
+        },
+        "Description": {
+            "S": "Descriptin for mdspsdk-testu8"
+        },
+        "ErrorCause": {
+            "S": "io.netty.channel.ConnectTimeoutException: connection timed out: api.cf.eu1-de.mindsphere.io/155.56.54.152:443"
+        },
+        "ErrorCode": {
+            "S": "mdsp.core.credentials.internalServerError"
+        },
+        "TenantName": {
+            "S": "mdspsdk"
+        },
+        "CredentialsStatus": {
+            "S": "DEPROVISIONED"
+        },
+        "CredentialsId": {
+            "S": "c6e42f9f-db18-4954-a374-952c0bf0b3a5"
+        },
+        "Roles": {
+            "SS": [
+                "OrgManager"
+            ]
+        },
+        "CredentialType": {
+            "S": "mindsphereCloudFoundry"
+        },
+        "CreatedBy": {
+            "S": "sriranga.yandapalli@siemens.com"
+        },
+        "CreatedAt": {
+            "S": "2019-11-27T11:22:21.486Z"
+        },
+        "Username": {
+            "S": "mdspsdk-testu8"
+        }
+    },
+    {
+        "Expiry": {
+            "S": "2020-09-04T06:25:12.257Z"
+        },
+        "LastModifiedAt": {
+            "S": "2019-10-30T06:09:15.877Z"
+        },
+        "Description": {
+            "S": "testing the description"
+        },
+        "ErrorCause": {
+            "S": "RESET_PASSWORD_FAILED"
+        },
+        "ErrorCode": {
+            "S": "mdsp.core.credentials.internalServerError"
+        },
+        "TenantName": {
+            "S": "mdspsdk"
+        },
+        "CredentialsStatus": {
+            "S": "DEPROVISIONED"
+        },
+        "CredentialsId": {
+            "S": "d20e6d37-2f36-479f-9ca8-c911f31066ad"
+        },
+        "Roles": {
+            "SS": [
+                "OrgManager"
+            ]
+        },
+        "CredentialType": {
+            "S": "mindsphereCloudFoundry"
+        },
+        "CFGuid": {
+            "S": "e775a2b4-a808-4963-ad01-41119eb49770"
+        },
+        "CreatedBy": {
+            "S": "pruthula.s@siemens.com"
+        },
+        "CreatedAt": {
+            "S": "2019-10-25T09:43:04.358Z"
+        },
+        "Username": {
+            "S": "mdspsdk-ps1111"
+        }
+    },
+    {
+        "Expiry": {
+            "S": "2020-07-21T17:32:28.000Z"
+        },
+        "LastModifiedAt": {
+            "S": "2019-11-25T07:12:52.442Z"
+        },
+        "Roles": {
+            "SS": [
+                "OrgManager"
+            ]
+        },
+        "CredentialType": {
+            "S": "mindsphereCloudFoundry"
+        },
+        "CFGuid": {
+            "S": "9ffd2146-9bc7-4684-a47a-7ab53c84043d"
+        },
+        "CreatedBy": {
+            "S": "sriranga.yandapalli@siemens.com"
+        },
+        "Description": {
+            "S": "Descriptin for mdspsdk-testu7"
+        },
+        "TenantName": {
+            "S": "mdspsdk"
+        },
+        "CreatedAt": {
+            "S": "2019-11-22T11:40:28.471Z"
+        },
+        "CredentialsStatus": {
+            "S": "DEPROVISIONED"
+        },
+        "Username": {
+            "S": "mdspsdk-testu7"
+        },
+        "CredentialsId": {
+            "S": "d93e1840-3ac6-44f4-9007-b202d68ed52b"
+        }
+    },
+    {
+        "Expiry": {
+            "S": "2020-09-04T06:25:12.257Z"
+        },
+        "LastModifiedAt": {
+            "S": "2019-10-30T06:21:47.729Z"
+        },
+        "Roles": {
+            "SS": [
+                "OrgManager"
+            ]
+        },
+        "CredentialType": {
+            "S": "mindsphereCloudFoundry"
+        },
+        "CFGuid": {
+            "S": "54b33059-bc6b-44c3-9169-db1c9c7a80af"
+        },
+        "CreatedBy": {
+            "S": "pruthula.s@siemens.com"
+        },
+        "Description": {
+            "S": "Testing"
+        },
+        "TenantName": {
+            "S": "mdspsdk"
+        },
+        "CreatedAt": {
+            "S": "2019-10-30T06:18:29.615Z"
+        },
+        "CredentialsStatus": {
+            "S": "DEPROVISIONED"
+        },
+        "Username": {
+            "S": "mdspsdk-pruthulas1"
+        },
+        "CredentialsId": {
+            "S": "f7732618-43d6-4e61-bff0-66157f6493dd"
+        }
+    },
+    {
+        "Expiry": {
+            "S": "2020-06-21T00:00:00.000Z"
+        },
+        "LastModifiedAt": {
+            "S": "2019-11-08T11:07:04.609Z"
+        },
+        "Description": {
+            "S": "Descriptin for tenant-myusername"
+        },
+        "ErrorCause": {
+            "S": "Unable to execute HTTP request: Connect to ssm.eu-central-1.amazonaws.com:443 [ssm.eu-central-1.amazonaws.com/172.19.72.246, ssm.eu-central-1.amazonaws.com/172.19.77.23] failed: connect timed out"
+        },
+        "ErrorCode": {
+            "S": "mdsp.core.credentials.internalServerError"
+        },
+        "TenantName": {
+            "S": "mdspsdk"
+        },
+        "CredentialsStatus": {
+            "S": "DEPROVISIONED"
+        },
+        "CredentialsId": {
+            "S": "feec3cff-8142-4de6-8f97-d6bbc1888fb9"
+        },
+        "Roles": {
+            "SS": [
+                "OrgManager"
+            ]
+        },
+        "CredentialType": {
+            "S": "mindsphereCloudFoundry"
+        },
+        "CFGuid": {
+            "S": "bfdf1fe0-a3aa-4614-b0a6-edbbb85bbb8c"
+        },
+        "CreatedBy": {
+            "S": "pranava.sureka@siemens.com"
+        },
+        "CreatedAt": {
+            "S": "2019-10-24T12:17:32.597Z"
+        },
+        "Username": {
+            "S": "mdspsdk-resetpass2"
+        }
+    }
+]
